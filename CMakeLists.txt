@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.12)
+project (projeto0)
+add_executable(vector_ops parte0.cpp funcs.cpp) 
+target_compile_options(vector_ops PUBLIC -O2)
+add_executable(vector_ops_no_opt parte0.cpp funcs.cpp) 
+target_compile_options(vector_ops_no_opt PUBLIC -O0)
+add_executable(vector_ops_simd parte0.cpp funcs.cpp)
+target_compile_options(vector_ops_simd PUBLIC -O3)

@@ -1,0 +1,1 @@
+/usr/local/bin/g++-9   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/vector_ops_no_opt.dir/parte0.cpp.o CMakeFiles/vector_ops_no_opt.dir/funcs.cpp.o  -o vector_ops_no_opt 

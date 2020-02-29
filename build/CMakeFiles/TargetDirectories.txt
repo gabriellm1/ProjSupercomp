@@ -1,0 +1,5 @@
+/Users/gmonteiro42/Documents/Insper/supercomp/projeto0/build/CMakeFiles/vector_ops_simd.dir
+/Users/gmonteiro42/Documents/Insper/supercomp/projeto0/build/CMakeFiles/rebuild_cache.dir
+/Users/gmonteiro42/Documents/Insper/supercomp/projeto0/build/CMakeFiles/edit_cache.dir
+/Users/gmonteiro42/Documents/Insper/supercomp/projeto0/build/CMakeFiles/vector_ops_no_opt.dir
+/Users/gmonteiro42/Documents/Insper/supercomp/projeto0/build/CMakeFiles/vector_ops.dir

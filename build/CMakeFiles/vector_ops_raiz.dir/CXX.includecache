@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gmonteiro42/Documents/Insper/supercomp/projeto0/funcs.h
+iostream
+-
+vector
+-
+cmath
+-
+iomanip
+-
+numeric
+-
+chrono
+-
+functional
+-
+
+/Users/gmonteiro42/Documents/Insper/supercomp/projeto0/parte0.cpp
+iostream
+-
+vector
+-
+cmath
+-
+iomanip
+-
+numeric
+-
+chrono
+-
+functional
+-
+fstream
+-
+funcs.h
+/Users/gmonteiro42/Documents/Insper/supercomp/projeto0/funcs.h
+
